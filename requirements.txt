@@ -1,7 +1,7 @@
 mtcnn
 numpy
 streamlit
-matplotlib=
+matplotlib
 tensorflow_gpu
 opencv_python
 streamlit_webrtc
