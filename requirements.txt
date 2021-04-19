@@ -2,7 +2,6 @@ mtcnn
 numpy
 streamlit
 matplotlib
-tensorflow_gpu
 opencv_python
 streamlit_webrtc
 tensorflow
