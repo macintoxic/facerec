@@ -2,6 +2,6 @@ mtcnn
 numpy
 streamlit
 matplotlib
-opencv_python
 streamlit_webrtc
 tensorflow
+opencv_python==4.5.1.48
