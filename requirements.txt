@@ -1,5 +1,5 @@
 mtcnn==0.1.0
-numpy==1.18.5
+numpy
 streamlit==0.80.0
 matplotlib==3.3.4
 tensorflow_gpu==2.3.1
