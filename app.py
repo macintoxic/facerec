@@ -1,15 +1,14 @@
 # simple_loopback.py
+#import cv2
+#from mtcnn import MTCNN
 from matplotlib import pyplot as plt
 import tensorflow as tf
 import numpy as np
-#import cv2
-#from mtcnn import MTCNN
 import streamlit as st
 from streamlit_webrtc import webrtc_streamer, ClientSettings, VideoTransformerBase, WebRtcMode
 
 print("TF Version:", tf.__version__)
 #print("CV2 Version:", cv2.__version__)
-
 
 WEBRTC_CLIENT_SETTINGS = ClientSettings(
     rtc_configuration={"iceServers": [{"urls": ["stun:stun.l.google.com:19302"]}]},
