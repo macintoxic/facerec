@@ -3,7 +3,7 @@ from matplotlib import pyplot as plt
 import tensorflow as tf
 #from mtcnn import MTCNN
 import numpy as np
-import cv2
+#import cv2
 import streamlit as st
 from streamlit_webrtc import webrtc_streamer
 
