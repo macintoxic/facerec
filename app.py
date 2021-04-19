@@ -1,7 +1,7 @@
 # simple_loopback.py
 from matplotlib import pyplot as plt
 import tensorflow as tf
-from mtcnn import MTCNN
+#from mtcnn import MTCNN
 import numpy as np
 import cv2
 import streamlit as st
